@@ -1,0 +1,19 @@
+1
+ufa zelenka 2 3
+1
+ufa ZELENKA 4 5              
+1
+istra lenina 2 1
+4
+1 zelenKA
+4
+1 zelenka
+4
+2 ZELENKa
+5
+1 UFA
+5
+3 IsTrA
+6
+1 2
+8

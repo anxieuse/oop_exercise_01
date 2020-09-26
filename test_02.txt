@@ -1,0 +1,19 @@
+1
+ekb lenina 123 1 
+1
+EKB LENINa 123 1
+1
+ekb lenina 123 1
+7
+6
+1 3
+6
+1 2
+1
+EKB LENINA 124 0
+7
+6
+1 4
+3
+1 4
+8
